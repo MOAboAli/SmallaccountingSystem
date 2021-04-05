@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 18, 18.875" name="BsolutionDB">
+  <DataContextMoniker Name="/BsolutionDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2d027e62-e9a2-40d6-af46-a475f909f14d" isExpanded="false" absoluteBounds="3.625, 1.375, 2, 0.45">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Bank_Name" />
+      <nestedChildShapes>
+        <elementListCompartment Id="101fcf94-f61d-454d-95c8-4a9a2746395c" absoluteBounds="3.64, 1.835, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="df32d7b6-a2b4-4f4d-926f-1909dc979c7d" absoluteBounds="3.75, 4.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Cash_Type" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c2f98d18-068a-43b8-bad0-e59661ba3d19" absoluteBounds="3.765, 5.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4d8ed443-3a99-482c-8f20-b4ba94d30dfa" absoluteBounds="9.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Contat_T" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d5716952-e6e2-4818-874f-8557ce63ba0c" absoluteBounds="9.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dfbbe0b3-6fdc-4a1d-b5e7-872026bfb543" absoluteBounds="9.75, 3.75, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/BsolutionDBDataContext/DiscountInvoice2" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b016a310-ffb0-49c4-b72f-d62bdb57bbd0" absoluteBounds="9.765, 4.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="adee377e-c93c-4db0-9cb1-e1c576f80311" absoluteBounds="6.75, 9.75, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Expenses_Type" />
+      <nestedChildShapes>
+        <elementListCompartment Id="324a8bfd-bcc5-4c34-b184-9dbbaea25c70" absoluteBounds="6.765, 10.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1e5da9cd-2974-4e91-b9b3-c53aafd3504e" absoluteBounds="12.75, 0.75, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Invoice_Detail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="77d1de0f-93ef-4893-aebf-3a7b67e8eb2c" absoluteBounds="12.765, 1.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8cc77d08-3dc4-4ec5-a4d4-cde7f752b092" absoluteBounds="12.75, 4.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Invoice_Serial_Collect" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1d48a91a-22c8-42d5-a037-66ce1971c0a4" absoluteBounds="12.765, 5.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="529ebbb9-c921-4537-94db-c241568d1425" absoluteBounds="6.75, 12.75, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Invoice_T" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0d5e8f25-0290-46f0-ac5c-193ac120a259" absoluteBounds="6.765, 13.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5b572317-31ea-4014-befe-0f590431c248" absoluteBounds="12.75, 7.75, 2, 2.5401025390624996">
+      <DataClassMoniker Name="/BsolutionDBDataContext/InvoiceTax" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a56ccc7e-cde0-4f94-a114-df714d0905b7" absoluteBounds="12.765, 8.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="89bf54bf-1993-45fe-9b88-a348cd4d0216" absoluteBounds="9.75, 12.75, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Item_Type" />
+      <nestedChildShapes>
+        <elementListCompartment Id="17ff3909-c380-4743-b0f4-1ce0c256303c" absoluteBounds="9.765, 13.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ff34457e-9cfe-4688-b57f-eb0d0ae1eda4" absoluteBounds="12.75, 11.75, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Item" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c915211b-964b-413c-905b-4ea1a0b3ddd4" absoluteBounds="12.765, 12.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4cbe158e-b927-463d-af3c-dfdd37ffe6c7" isExpanded="false" absoluteBounds="0.75, 14.75, 2, 0.45">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Stock" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8d52b2c2-6184-4811-8518-e79acb3ca3f7" absoluteBounds="0.765, 15.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5aed9cbf-3fbc-48d3-8c75-c82379481e28" absoluteBounds="15.75, 0.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Tax" />
+      <nestedChildShapes>
+        <elementListCompartment Id="79501ef9-26b1-492a-b0ec-f1183cf47334" absoluteBounds="15.765, 1.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="deaca9f9-4a44-401b-a905-b19dce76a873" absoluteBounds="15.75, 4.75, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Total_Transation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26e8b6ed-1e7d-4d6c-b068-d140392644fc" absoluteBounds="15.765, 5.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="122047d6-3055-402e-9706-fb464d043bb1" absoluteBounds="15.75, 8.75, 2, 3.5016097005208309">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Transaction_Detail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9e5a2458-ad84-412b-afd8-142e4822d712" absoluteBounds="15.765, 9.21, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b35a1bfe-b31f-4be3-9f70-7830d365fba5" absoluteBounds="9.75, 15.75, 2, 2.3478011067708326">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Transaction_Type" />
+      <nestedChildShapes>
+        <elementListCompartment Id="48f84dc4-ce94-4507-a712-36350c7481df" absoluteBounds="9.765, 16.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="edd8c9f5-fd4d-4717-baf7-b6fdd8cef5a6" isExpanded="false" absoluteBounds="0.5, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Cash" />
+      <nestedChildShapes>
+        <elementListCompartment Id="efc9caeb-03e0-41e8-8c91-fa341ccd2572" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1647ec42-03c0-4cdb-8b8c-cc741a2c4dfb" absoluteBounds="0.75, 4.125, 2, 3.1170068359375">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Bank" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9587f2ff-5b72-4ffe-b8fd-4f2c5f2d1f76" absoluteBounds="0.76500000000000012, 4.585, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7fc93207-96d8-4b7a-8a08-bc5c403ec933" absoluteBounds="6.5, 0.875, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Cheque" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ab3c0821-a2c3-414c-b5dd-e3bd7198ab9f" absoluteBounds="6.515, 1.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="51bbfa8e-f19a-4677-9b39-071f5ca424c3" absoluteBounds="6.375, 4.75, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Collecting" />
+      <nestedChildShapes>
+        <elementListCompartment Id="78809868-3a69-40f0-8314-076c62dd0cde" absoluteBounds="6.39, 5.21, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dcf76656-9d63-4dd6-8e2b-f4cbea83783d" isExpanded="false" absoluteBounds="3.75, 3, 2, 0.45">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Script" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6146b3bf-abca-4cc5-9396-1d85fbfc1a19" absoluteBounds="3.765, 3.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="eb8759bf-2fd4-4feb-a883-6be2052af1bd" absoluteBounds="9.75, 8.125, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Invoice" />
+      <nestedChildShapes>
+        <elementListCompartment Id="636dcbab-4a3e-4895-a0ce-6add810227fe" absoluteBounds="9.765, 8.585, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ce45434e-7359-421a-ab6f-a712b8145d99" absoluteBounds="3.25, 10.25, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Expense" />
+      <nestedChildShapes>
+        <elementListCompartment Id="efc7f178-c67c-49da-bcdb-407bf0c8fa0d" absoluteBounds="3.265, 10.71, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d5714929-234b-43b3-a8f2-3b3b9006c477" absoluteBounds="0.75, 8.5, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Contact2" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9ccc3306-2a10-4b7e-a768-aa29cda63fdb" absoluteBounds="0.76500000000000012, 8.96, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a786b4c6-e372-43e8-a7c5-fd324cbc75df" absoluteBounds="0.625, 1.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/BsolutionDBDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b99cbfe3-2081-4e49-8b8f-23e0a0c22878" absoluteBounds="0.64000000000000012, 2.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="760a5561-484f-403c-babc-b02c1d16c931" absoluteBounds="4.625, 17.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BsolutionDBDataContext/PagewUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dd47e07c-7695-41d3-b547-5deb97c96441" absoluteBounds="4.64, 17.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d190f906-296d-4625-8efd-d67bb29a205f" absoluteBounds="0.5, 16.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/BsolutionDBDataContext/Page2" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e2512729-a0d2-4b1a-805c-6d6def762402" absoluteBounds="0.51499999999999968, 16.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
