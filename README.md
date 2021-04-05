@@ -1,2 +1,4 @@
 # SmallaccountingSystem
-Small Offices Systems 
+Small Offices Systems  By Asp.net Forms, Sql Server.
+ 
+ 
